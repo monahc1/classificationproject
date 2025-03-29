@@ -16,7 +16,8 @@ Project Sections
 Data:
 The dataset used includes images of butterflies categorized into various species. It can be found in the project directory under archive/train.
 link to the dataset : https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data
-Collaborators
+
+Collaborators:
 - Malih Assaad
 - Hussein Dakroub
 - Mona El Hajj Chehade
