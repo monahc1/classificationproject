@@ -13,7 +13,7 @@ Project Sections
 - Model Evaluation:Evaluating the model using metrics such as accuracy, F1 score, and confusion matrix.
 - Predictions:Displaying predictions on validation data with visualization.
 
-Data
+Data:
 The dataset used includes images of butterflies categorized into various species. It can be found in the project directory under archive/train.
 
 Collaborators
