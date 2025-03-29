@@ -2,7 +2,8 @@
 Project Title
 Butterfly Species Classification Using Convolutional Neural Networks (CNN)
 
-Description
+Description:
+
 This project utilizes TensorFlow and Keras to develop a convolutional neural network for classifying butterfly species. The model is trained on a dataset containing images of various butterfly species, aiming to accurately predict the species based on unseen images.
 Usage
 Project Sections
@@ -15,13 +16,16 @@ Project Sections
 
 Data:
 The dataset used includes images of butterflies categorized into various species. It can be found in the project directory under archive/train.
+
 link to the dataset : https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data
 
 Collaborators:
+
 - Malih Assaad
 - Hussein Dakroub
 - Mona El Hajj Chehade
 
 Instructor
+
 - Professor Youssef Bakouny
 
